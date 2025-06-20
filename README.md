@@ -23,4 +23,4 @@ CONTROLS:
 - Step by tapping W/A/S/D x2 quickly
 - Guard by tapping S then W quickly
 - Transform by stepping while holding L
-- Esc to quit the game
+- Esc to pause the game
