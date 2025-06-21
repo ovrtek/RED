@@ -2,7 +2,7 @@
 
 This is honestly just an experiment to see if I had what it takes to program my own game engine using the same scenario and mechanics as my first project, so it’s time to see what I am truly capable of as a programmer!
 
-In this version the goal is to bust 1000 viruses and after every 250 you fight one of the four antivirus bosses, so it is pretty much a glorified Devil May Cry Bloody Palace except the format is similar to the Baldr Sky Survival Mode which is a perfect endurance test for the antivirus avatars!
+In this version the goal is to bust 1000 viruses and after every 250 you fight one of the four antivirus bosses, so it is pretty much a glorified Devil May Cry Bloody Palace except the format is similar to the Baldr Sky Survival Mode which is a perfect endurance test for the antivirus avatar!
 
 This game was made completely in C++ so it might be rough around the edges in some spots, but if you’re interested in creating your own Cybercore style game it is a solid template to build from! 
 
