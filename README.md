@@ -4,7 +4,7 @@ This is honestly just an experiment to see if I had what it takes to program my 
 
 In this version there’s an entire global grid to explore and defend against the virus infection with your updated antivirus avatar. The loadout customization and ranking system are from Armored Core while the virus legion being able to capture unguarded territory is from Extreme Power!
 
-This game was made completely in C++ so it might be rough around the edges in some spots, but if you’re interested in creating your own Cybercore style game it’s a solid template to build from! 
+This game was made completely in C++ so it might be rough around the edges in some spots, but if you’re interested in creating your own Cybercore style game it is a solid template to build from! 
 
 CONTROLS:
 - W to move your AV forward
